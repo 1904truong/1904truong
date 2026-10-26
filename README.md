@@ -1,119 +1,69 @@
 
 <div align="center">
 
-# Hi 👋, I'm 1904truong
+<h2>Hi 👋 I'm 1904truong</h2>
 
-### IT Operations • Project Management • Development
+<b>IT Operations • Project Management • Development</b>
 
-**Building, Managing & Optimizing Digital Solutions**
-
-<img src="https://komarev.com/ghpvc/?username=1904truong&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-</div>
-
-<br>
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/1904truong">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/1904truong?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-0969DA?style=for-the-badge&logo=githubactions&logoColor=white" />
-  </a>
+<p>
+<sub>System Operations | Project Delivery | AI Automation</sub>
 </p>
 
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,php,html,css,tailwind&perline=10" />
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase,docker,git,github,linux,aws&perline=10" />
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,vercel,cloudflare,githubactions,nginx,redis&perline=10" />
+<a href="https://github.com/1904truong">
+<img src="https://img.shields.io/badge/Open%20Source-58A6FF?style=flat&labelColor=0D1117" height="22"/>
+</a>
 
 </div>
 
-<br>
+### 🌐 Connect with Me
+<div align="center">
+<a href="https://github.com/1904truong">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" height="20"/>
+</a>
+<a href="https://github.com/1904truong?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-0969DA?style=flat-square&logo=githubactions&logoColor=white" height="20"/>
+</a>
+</div>
+
+### 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,python,php&theme=dark" height="28"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase,docker,git,github,linux,aws&theme=dark" height="28"/>
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,vercel,cloudflare,githubactions,nginx,redis&theme=dark" height="28"/>
+</p>
 
 <div align="center">
 
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="18"/>
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="18"/>
+<img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=flat-square&logo=supabase&logoColor=white" height="18"/>
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white" height="18"/>
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="18"/>
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black" height="18"/>
 
-![Project Management](https://img.shields.io/badge/PROJECT_MANAGEMENT-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Agile](https://img.shields.io/badge/AGILE-6554C0?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/SCRUM-00875A?style=for-the-badge)
-![Automation](https://img.shields.io/badge/AUTOMATION-FF6B35?style=for-the-badge&logo=githubactions&logoColor=white)
-![AI](https://img.shields.io/badge/AI_TOOLS-412991?style=for-the-badge&logo=openai&logoColor=white)
+<img src="https://img.shields.io/badge/PROJECT%20MANAGEMENT-0052CC?style=flat-square&logo=jira&logoColor=white" height="18"/>
+<img src="https://img.shields.io/badge/AGILE-6554C0?style=flat-square" height="18"/>
+<img src="https://img.shields.io/badge/SCRUM-00875A?style=flat-square" height="18"/>
+<img src="https://img.shields.io/badge/AUTOMATION-FF6B35?style=flat-square" height="18"/>
+<img src="https://img.shields.io/badge/AI%20TOOLS-412991?style=flat-square&logo=openai&logoColor=white" height="18"/>
 
 </div>
 
----
-
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=1904truong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1904truong&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-
+<img src="https://streak-stats.demolab.com?user=1904truong&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=A371F7" width="360"/>
 </div>
 
-<br>
+### 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=1904truong&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1904truong&bg_color=0d1117&color=58a6ff&line=58a6ff&point=a371f7&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 </div>
 
----
-
-## 📈 Contribution Graph
+### ✍️ Random Dev Quote
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1904truong&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🧑‍💻 What I Do
-
-- ⚙️ **IT Operations** — System management, monitoring and optimization
-- 📋 **Project Management** — Planning, coordination and delivery
-- 💻 **Development** — Web applications and backend integration
-- 🚀 **DevOps** — Deployment, CI/CD and workflow improvement
-- 🤖 **AI Automation** — AI tools and automated workflows
-- 🗄️ **Database Management** — Data organization and system integration
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Plan • Build • Deploy • Optimize
-
-*Turning ideas into reliable digital solutions.*
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="95%"/>
 </div>
