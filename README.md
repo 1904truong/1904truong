@@ -19,16 +19,24 @@
 ## 🛠️ Tech Stack
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend tech stack icons" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" alt="Frontend tech stack icons" height="40" />
+</p>
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,php,python,java,laravel,spring,mysql,postgres,mongodb,redis" alt="Backend and database tech stack icons" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,java,laravel,spring,mysql,postgres,mongodb,redis&perline=10" alt="Backend and database tech stack icons" height="40" />
+</p>
 
 ### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,nginx,postman" alt="DevOps and tools tech stack icons" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,nginx,postman&perline=6" alt="DevOps and tools tech stack icons" height="40" />
+</p>
 
 ### Design & Development Tools
-<img src="https://skillicons.dev/icons?i=figma,vscode,idea" alt="Design and development tools icons" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,vscode,idea&perline=3" alt="Design and development tools icons" height="40" />
+</p>
 
 ## 📊 GitHub Statistics
 
